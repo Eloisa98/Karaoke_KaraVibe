@@ -16,7 +16,7 @@ O que começou como um pequeno estúdio com telões evoluiu rapidamente para uma
 
 - Eventos temáticos e experiência premium
 
-- Média de 600 visitantes por mês
+- Média de 400 visitantes por mês
 
 Com sua consolidação no mercado físico, a empresa avança agora para sua transformação digital, expandindo alcance e eficiência por meio de um aplicativo próprio.
 
@@ -97,7 +97,7 @@ Grupos de usuários: querem dividir o pagamento automaticamente via app.
 
 - Conformidade com LGPD
 
-- Escalabilidade para +100 usuários simultâneos
+- Escalabilidade para +50 usuários simultâneos
 
 - Escopo do MVP: Autenticação → Reservas → Pagamentos.
 
@@ -125,6 +125,7 @@ cd app-karavibe
 ```
  Higor dos Santos
 ```
+
 
 
 
