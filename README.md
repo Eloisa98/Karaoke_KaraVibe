@@ -116,10 +116,14 @@ cd app-karavibe
 ```
  Eloisa dos Santos Silva
 ```
-- 
+```
+ Evelyn Vanielly Maria de Oliveira
+```
+```
+ Sarah Maria dos Santos
+```
+```
+ Higor dos Santos
+```
 
-- Evelyn Vanielly Maria de Oliveira
 
-- Sarah Maria dos Santos
-
-- Higor dos Santos
