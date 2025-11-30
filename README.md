@@ -52,7 +52,7 @@ O App KaraVibe é uma iniciativa estratégica da empresa para digitalizar e expa
 
 - Destaques do desenvolvimento:
 
-- Arquitetura multiplataforma (Android/iOS) com Flutter
+- Arquitetura multiplataforma (Android/iOS) com React
 
 - Integração com pagamento digital (PIX e PagSeguro)
 
@@ -95,7 +95,7 @@ Grupos de usuários: querem dividir o pagamento automaticamente via app.
 
 - Acessibilidade PT/EN
 
-- Conformidade com GDPR
+- Conformidade com LGPD
 
 - Escalabilidade para +100 usuários simultâneos
 
@@ -125,5 +125,6 @@ cd app-karavibe
 ```
  Higor dos Santos
 ```
+
 
 
