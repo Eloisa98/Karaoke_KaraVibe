@@ -107,11 +107,6 @@ Grupos de usuários: querem dividir o pagamento automaticamente via app.
 |----------|---------|---------|-----------------|----------|
 | React    | Java    | SQLite  | PIX / PagSeguro | Firebase |
 
-
-# Clone o repositório
-git clone https://github.com/grupo01-karavibe/app-karavibe
-cd app-karavibe
-
 ## 🤝 Equipe Responsável (Grupo 01)
 ```
  Eloisa dos Santos Silva
@@ -125,6 +120,7 @@ cd app-karavibe
 ```
  Higor dos Santos
 ```
+
 
 
 
